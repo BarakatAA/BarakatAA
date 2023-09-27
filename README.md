@@ -14,4 +14,6 @@ I'm on a journey to unravel meaningful insights from data and weave them into co
 As a co-founder of Gbrossoft, I'm deeply involved in indie game development. I'm excited about the intersection of storytelling and interactive experiences, and I believe that data can enhance both.
 
 🔍 **Exploring Data Horizons:**
-Currently honing my skills in data analysis and artificial intelligence through the Women Techsters Fellowship Program '24. Let's connect, collaborate, and explore the endless possibilities of data together!
+Currently honing my skills in data science and artificial intelligence through the Women Techsters Fellowship Program '24. 
+
+Let's connect, collaborate, and explore the endless possibilities of data together!
