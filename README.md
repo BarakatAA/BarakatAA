@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-** I'm Barakat, a passionate data enthusiast and storyteller who loves to blend the art of narrative design with the science of data analysis.
+''' I'm Barakat, a passionate data enthusiast and storyteller who loves to blend the art of narrative design with the science of data analysis.
 
 💻 Tech Stack:
 
@@ -17,4 +16,4 @@ As a co-founder of Gbrossoft, I'm deeply involved in indie game development. I'm
 🔍 Exploring Data Horizons:
 Currently honing my skills in data science and artificial intelligence through the Women Techsters Fellowship Program '24. Let's connect, collaborate, and explore the endless possibilities of data together!BarakatAA/BarakatAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
--->
+'''
