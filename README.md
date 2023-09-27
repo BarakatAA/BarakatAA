@@ -7,6 +7,8 @@
 Proficient in SQL, Python, Power BI, and Excel.
 Certified Microsoft Power BI Data Analyst Associate.
 Co-founder of Gbrossoft, where I'm a Narrative Designer, fusing data-driven insights with creative storytelling.
+
+
 📈 Data Driven & Creative:
 I'm on a journey to unravel meaningful insights from data and weave them into compelling narratives. My background in writing and my experience in the indie game development scene uniquely position me to see data from both analytical and creative perspectives.
 
