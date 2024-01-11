@@ -3,7 +3,7 @@
 I'm Barakat, a passionate data enthusiast and storyteller who loves to blend the art of narrative design with the science of data analysis.
 
 💻 **Tech Stack:** 
-- Proficient in SQL, Python, Power BI, and Excel.
+- Proficient in SQL, Python, Power BI, Tableau and Excel.
 - Certified Microsoft Power BI Data Analyst Associate.
 - Co-founder of Gbrossoft, where I also double as Narrative Designer.
 
